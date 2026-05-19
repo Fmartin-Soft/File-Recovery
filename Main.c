@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdbool.h>
 #include <immintrin.h>
-
+#include "Signitures.h"
 
 
 int main();
@@ -11,11 +11,6 @@ bool isSomething();
 
 bool isComplete = false;
 
-//struct to check for a beggining of a file
-struct checker
-{
-    
-};
 
 
 int main(){
